@@ -74,21 +74,21 @@ div.field, div.actions {
 
 #button_nav_resume{
 	display: block;
-	width: 240px;
-	height: 50px;
+	width: 190px;
+	height: 40px;
 	background: url("/images/resume.jpg") no-repeat 0 0;
 	}
 	
 #button_nav_samples{
 	display: block;
-	width: 240px;
-	height: 50px;
+	width: 190px;
+	height: 40px;
 	background: url("/images/samples.jpg") no-repeat 0 0;
 	}
 
 #button_nav_portfolio{
 	display: block;
-	width: 240px;
-	height: 50px;
+	width: 190px;
+	height: 40px;
 	background: url("/images/portfolio.jpg") no-repeat 0 0;
 	}
